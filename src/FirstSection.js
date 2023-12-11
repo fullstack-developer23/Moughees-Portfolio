@@ -7,6 +7,11 @@ import { FaGithub } from "react-icons/fa";
 import moughees from './moughees.jpeg';
 
 const First = () => {
+
+    // const onClick = () => {
+    //     window.location.href = "www.google.com";
+    //   };
+
     return(
         <div>
         <div class="profile-image">
@@ -19,10 +24,10 @@ const First = () => {
         <div className='social-links'>
         <IconContext.Provider
       value={{ color: 'blue', size: '30px' }}>
-      <IoIosMail />
-      <TfiGoogle />
-      <FaTwitter />
-      <FaGithub />
+      <a href='https://www.gmail.com' target='_blank' rel='noreferrer'><IoIosMail /></a>
+      <a href='https://www.google.com' target='_blank' rel='noreferrer'><TfiGoogle /></a>
+      <a href='https://www.twitter.com' target='_blank' rel='noreferrer'><FaTwitter /></a>
+      <a href='https://www.github.com' target='_blank' rel='noreferrer'><FaGithub /></a>
     </IconContext.Provider>
         </div>
 
