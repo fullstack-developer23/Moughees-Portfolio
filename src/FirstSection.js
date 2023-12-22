@@ -4,6 +4,7 @@ import { IoIosMail } from "react-icons/io";
 import { TfiGoogle } from "react-icons/tfi";
 import { FaTwitter } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
+import { SiSubstack } from "react-icons/si";
 import moughees from './moughees.jpeg';
 
 const First = () => {
@@ -25,7 +26,7 @@ const First = () => {
         <IconContext.Provider
       value={{ color: 'blue', size: '30px' }}>
       <a href='https://www.gmail.com' target='_blank' rel='noreferrer'><IoIosMail /></a>
-      <a href='https://www.google.com' target='_blank' rel='noreferrer'><TfiGoogle /></a>
+      <a href='https://www.google.com' target='_blank' rel='noreferrer'><SiSubstack /></a>
       <a href='https://www.twitter.com' target='_blank' rel='noreferrer'><FaTwitter /></a>
       <a href='https://www.github.com' target='_blank' rel='noreferrer'><FaGithub /></a>
     </IconContext.Provider>
