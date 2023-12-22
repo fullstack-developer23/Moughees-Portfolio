@@ -71,7 +71,25 @@ I have led many end-to-end projects like 2FA Auth, cross border money movement, 
             
             <li><p>Canada needs to be more competent </p><br/></li>
 
-            <li><p>Generative Audio Using GANs (Publ 2020)</p></li>
+            <li><p>Generative Audio Using GANs (Publ 2020)<br/><br/></p></li>
+
+        </ul>
+        </div>
+
+        <hr/>
+        <h1>Products built at Loop</h1>
+        <div className='worklist'>
+        <ul>
+            
+            <li><a href='https://www.getloop.ca/blog/enable-app-based-multi-factor-authentication-with-loop' target='_blank' rel='noreferrer'><p>Multi-factor Authentication </p></a></li>
+
+            <li><a href='https://www.bankonloop.com/blog/streamlined-payments-with-loop' target='_blank' rel='noreferrer'><p>Streamlined Payments</p></a></li>
+            
+            <li><a href='https://www.getloop.ca/blog/loop-plus' target='_blank' rel='noreferrer'><p>Recurring Subscription Product</p></a></li>
+            
+            <li><a href='https://www.bankonloop.com/blog/get-eur-and-gbp-banking-details' target='_blank' rel='noreferrer'><p>EUR GBP Wallets</p></a></li>
+            
+            <li><a href='https://www.bankonloop.com/blog/streamline-your-accounts-payable' target='_blank' rel='noreferrer'><p>Approval Workflows</p></a></li>
 
         </ul>
         </div>
